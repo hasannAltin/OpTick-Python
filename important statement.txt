@@ -1,0 +1,1 @@
+The project consists of python and .net maui codes. This section contains python codes.The name of the project is OpTickFinish.
